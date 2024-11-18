@@ -1,0 +1,103 @@
+{
+    "company": "Mock Company Inc.",
+    "year": 2024,
+    "monthly_cash_flow": [
+        {
+            "month": "Tammikuu",
+            "inflow": 28764.94,
+            "outflow": 48157.9,
+            "net_cash_flow": -19392.96,
+            "coming_inflow": 12000.00,
+            "going_outflow": 15000.00
+        },
+        {
+            "month": "Helmikuu",
+            "inflow": 27661.09,
+            "outflow": 23278.37,
+            "net_cash_flow": 4382.72,
+            "coming_inflow": 14000.00,
+            "going_outflow": 12000.00
+        },
+        {
+            "month": "Maaliskuu",
+            "inflow": 30837.9,
+            "outflow": 53206.18,
+            "net_cash_flow": -22368.28,
+            "coming_inflow": 17000.00,
+            "going_outflow": 20000.00
+        },
+        {
+            "month": "Huhtikuu",
+            "inflow": 63903.23,
+            "outflow": 54575.86,
+            "net_cash_flow": 9327.37,
+            "coming_inflow": 15000.00,
+            "going_outflow": 18000.00
+        },
+        {
+            "month": "Toukokuu",
+            "inflow": 44043.35,
+            "outflow": 54067.78,
+            "net_cash_flow": -10024.43,
+            "coming_inflow": 13000.00,
+            "going_outflow": 14000.00
+        },
+        {
+            "month": "Kesäkuu",
+            "inflow": 38967.19,
+            "outflow": 32308.41,
+            "net_cash_flow": 6658.78,
+            "coming_inflow": 20000.00,
+            "going_outflow": 17000.00
+        },
+        {
+            "month": "Heinäkuu",
+            "inflow": 54437.71,
+            "outflow": 29093.04,
+            "net_cash_flow": 25344.67,
+            "coming_inflow": 19000.00,
+            "going_outflow": 16000.00
+        },
+        {
+            "month": "Elokuu",
+            "inflow": 42312.89,
+            "outflow": 31785.36,
+            "net_cash_flow": 10527.53,
+            "coming_inflow": 18000.00,
+            "going_outflow": 15000.00
+        },
+        {
+            "month": "Syyskuu",
+            "inflow": 70408.94,
+            "outflow": 27663.77,
+            "net_cash_flow": 42745.17,
+            "coming_inflow": 25000.00,
+            "going_outflow": 20000.00
+        },
+        {
+            "month": "Lokakuu",
+            "inflow": 35315.95,
+            "outflow": 38879.72,
+            "net_cash_flow": -3563.77,
+            "coming_inflow": 16000.00,
+            "going_outflow": 14000.00
+        },
+        {
+            "month": "Marraskuu",
+            "inflow": 63182.85,
+            "outflow": 25285.8,
+            "net_cash_flow": 37897.05,
+            "coming_inflow": 22000.00,
+            "going_outflow": 18000.00
+        },
+        {
+            "month": "Joulukuu",
+            "inflow": 78083.36,
+            "outflow": 24419.91,
+            "net_cash_flow": 53663.45,
+            "coming_inflow": 30000.00,
+            "going_outflow": 25000.00
+        }
+    ],
+    "total_net_cash_flow": 158997.89
+}
